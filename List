@@ -1,0 +1,4 @@
+yellows = ["banana" , "mango" , "pineapple"
+yellows.extend
+
+print(yellows)
