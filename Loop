@@ -1,0 +1,15 @@
+name = "Michael Lorenz"
+
+print(name[0].upper() + "!")
+print(name[1].upper() + "!")
+print(name[2].upper() + "!")
+print(name[3].upper() + "!")
+print(name[4].upper() + "!")
+print(name[5].upper() + "!")
+print(name[6].upper() + "!")
+print(name[8].upper() + "!")
+print(name[9].upper() + "!")
+print(name[10].upper() + "!")
+print(name[11].upper() + "!")
+print(name[12].upper() + "!")
+print(name[13].upper() + "!")
